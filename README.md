@@ -29,13 +29,13 @@ El siguiente repo se realizó como complemento de los estudios de grado en la Pa
 - Lenguaje  de margado [HTML5](https://es.wikipedia.org/wiki/HTML5).
 - Lenguaje de estilos [CSS3](https://developer.mozilla.org/es/docs/Web/CSS).
 - Lenguaje de programación [JavasCript](https://developer.mozilla.org/es/docs/Web/JavaScript).
-- Creación de aplicaciones [Responsive]().
+- Creación de aplicaciones [Responsive](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Responsive_Design).
 - Uso de librería [JQuery](https://jquery.com/).
 - Uso de gestor de versiones [Git](https://git-scm.com/).
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="25" height="25" /> Referencia
 
-- Libro de [HTML5]().
-- Libro de [CSS3]().
-- Libro de [Javascript]().
+- Libro de [HTML5 y CSS3](https://mega.nz/file/sFZhSI7I#FgMx3O0RNCPUq8qNu-ZYICwcGRmTvYWjboxXvKIK9o0).
+- Libro de [CSS3](https://mega.nz/file/gYYDlQJT#0Avsxy2NK-2lROQeEBj-PnaBeJQCAG73NSC6dCT9TH8).
+- Libro de [Javascript](https://mega.nz/file/ANZ01RbI#wbaxwGruNXZdbktrHnlh2qDpcMZfxFcX3yheoehddS4).
 - Emojis animados de [Animated TeleEmojis](https://telegram-animated-emojis.vercel.app/).
